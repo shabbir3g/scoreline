@@ -1,0 +1,4 @@
+[17-Sep-2015 12:43:02 America/Denver] PHP Fatal error:  Call to undefined function post_password_required() in /home/footbbd8/public_html/wp-content/themes/scoreline/comments.php on line 1
+[19-Sep-2015 09:05:22 America/Denver] PHP Fatal error:  Call to undefined function post_password_required() in /home/footbbd8/public_html/wp-content/themes/scoreline/comments.php on line 1
+[20-Sep-2015 16:08:41 America/Denver] PHP Fatal error:  Call to undefined function post_password_required() in /home/footbbd8/public_html/wp-content/themes/scoreline/comments.php on line 1
+[15-Mar-2016 19:01:51 America/Denver] PHP Fatal error:  Call to undefined function get_header() in /home/footbbd8/public_html/wp-content/themes/scoreline/index.php on line 1
